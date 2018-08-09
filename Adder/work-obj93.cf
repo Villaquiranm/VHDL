@@ -1,7 +1,0 @@
-v 4
-file . "full_adder_vhdl_code.vhdl" "01405b56dbaa41e9e7815222b958aed174a3137f" "20180725194957.010":
-  entity full_adder_vhdl_code at 1( 0) + 0 on 13;
-  architecture gate_level of full_adder_vhdl_code at 12( 210) + 0 on 14;
-file . "adder_test_bench.vhdl" "5de4be97715f9746be65fa1fe68ef9cf7417b932" "20180725194957.010":
-  entity adder_test_bench at 1( 0) + 0 on 11;
-  architecture behavior of adder_test_bench at 6( 93) + 0 on 12;

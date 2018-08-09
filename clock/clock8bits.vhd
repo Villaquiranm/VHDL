@@ -16,7 +16,7 @@ architecture clock of clock_8_bits is
     process(clk)
     begin
       if rising_edge(clk) then
-        counter <= counter+1;
+        counter <= counter + 1;
       end if;
     end process;
   end clock;
